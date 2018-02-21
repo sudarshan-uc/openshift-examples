@@ -34,7 +34,6 @@ http://prometheus-openshift-infra.10.0.0.249.xip.io
 
 
 ### Reference links
-https://grafana.net/dashboards/315
 https://github.com/giantswarm/kubernetes-prometheus
 http://www.hawkular.org/blog/2016/10/24/hawkular-metrics-openshift-and-grafana.html
 
